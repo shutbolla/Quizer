@@ -141,10 +141,7 @@ namespace {
 
 				bool was_correct = false;
 
-				if (input == "" || input == capitals_already_guessed[0] || input == capitals_already_guessed[1]) {
-
-				}
-				else {
+				if (input != "" && input != capitals_already_guessed[0] && input != capitals_already_guessed[1])
 
 					for (const std::string &capital : capitals) {
 
@@ -161,7 +158,6 @@ namespace {
 							break;
 						}
 					}
-				}
 
 				if (was_correct)
 
