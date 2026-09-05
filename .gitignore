@@ -1,0 +1,11 @@
+.vs/
+x64/
+x86/
+*.user
+*.suo
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.idb
+*.log

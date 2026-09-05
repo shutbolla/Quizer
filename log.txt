@@ -1,0 +1,121 @@
+[08:31:31] [INFO] Started Capitals Quiz
+[08:31:31] [INFO] What is the capital of Malawi
+[08:31:33] [INFO] You got 0/0 correct
+[08:31:33] [INFO] Ended Capitals Quiz
+[08:31:34] [INFO] Started Capitals Quiz
+[08:31:34] [INFO] What is the capital of Nicaragua
+[08:31:34] [INFO] You got 0/0 correct
+[08:31:34] [INFO] Ended Capitals Quiz
+[08:31:35] [INFO] Started Capitals Quiz
+[08:31:35] [INFO] What are the capitals of Eswatini
+[08:31:36] [INFO] You got 0/0 correct
+[08:31:36] [INFO] Ended Capitals Quiz
+[08:31:36] [INFO] Started Capitals Quiz
+[08:31:36] [INFO] What is the capital of Turkey
+[08:31:40] [INFO] Correct, 1/1 guessed
+[08:31:40] [INFO] What is the capital of Tunisia
+[08:31:42] [INFO] Correct, 1/1 guessed
+[08:31:42] [INFO] What is the capital of Mozambique
+[08:31:46] [INFO] Correct, 1/1 guessed
+[08:31:46] [INFO] What is the capital of Turkmenistan
+[08:31:49] [INFO] Correct, 1/1 guessed
+[08:31:49] [INFO] What is the capital of France
+[08:31:51] [INFO] Correct, 1/1 guessed
+[08:31:51] [INFO] What is the capital of Jamaica
+[08:31:54] [INFO] Correct, 1/1 guessed
+[08:31:54] [INFO] What is the capital of Portugal
+[08:31:57] [INFO] Correct, 1/1 guessed
+[08:31:57] [INFO] What is the capital of Venezuela
+[08:32:01] [INFO] Correct, 1/1 guessed
+[08:32:01] [INFO] What is the capital of Bosnia and Herzegovina
+[08:32:11] [INFO] Sarajevo
+[08:32:11] [INFO] What is the capital of Russia
+[08:32:16] [INFO] Correct, 1/1 guessed
+[08:32:16] [INFO] What are the capitals of South Africa
+[08:32:20] [INFO] Correct, 1/3 guessed
+[08:32:24] [INFO] Correct, 2/3 guessed
+[08:32:30] [INFO] Correct, 3/3 guessed
+[08:32:30] [INFO] What is the capital of Burundi
+[08:32:34] [INFO] Gitega
+[08:32:34] [INFO] What is the capital of Serbia
+[08:32:42] [INFO] Belgrade
+[08:32:42] [INFO] What is the capital of Jordan
+[08:33:00] [INFO] Amman
+[08:33:00] [INFO] What is the capital of Micronesia
+[08:33:05] [INFO] Palikir
+[08:33:05] [INFO] What is the capital of Niger
+[08:33:11] [INFO] Correct, 1/1 guessed
+[08:33:11] [INFO] What is the capital of Morocco
+[08:33:16] [INFO] Rabat
+[08:33:16] [INFO] What is the capital of Italy
+[08:33:21] [INFO] Correct, 1/1 guessed
+[08:33:21] [INFO] What is the capital of Saint Vincent and the Grenadines
+[08:33:27] [INFO] Correct, 1/1 guessed
+[08:33:27] [INFO] What is the capital of Germany
+[08:33:32] [INFO] Correct, 1/1 guessed
+[08:33:32] [INFO] What is the capital of Seychelles
+[08:33:38] [INFO] Correct, 1/1 guessed
+[08:33:38] [INFO] What is the capital of Sweden
+[08:33:48] [INFO] Correct, 1/1 guessed
+[08:33:48] [INFO] What is the capital of Luxembourg
+[08:33:53] [INFO] Correct, 1/1 guessed
+[08:33:53] [INFO] What is the capital of Iran
+[08:33:56] [INFO] Correct, 1/1 guessed
+[08:33:56] [INFO] What is the capital of United Kingdom
+[08:34:02] [INFO] Correct, 1/1 guessed
+[08:34:02] [INFO] What is the capital of Uganda
+[08:34:06] [INFO] Correct, 1/1 guessed
+[08:34:06] [INFO] What is the capital of Kazakhstan
+[08:34:13] [INFO] Correct, 1/1 guessed
+[08:34:13] [INFO] What is the capital of Algeria
+[08:34:25] [INFO] Correct, 1/1 guessed
+[08:34:25] [INFO] What is the capital of Guinea
+[08:34:30] [INFO] Incorrect, 0/1 guessed
+[08:34:30] [INFO] What is the capital of Netherlands
+[08:34:32] [INFO] Conakry
+[08:34:43] [INFO] Correct, 1/1 guessed
+[08:34:43] [INFO] What is the capital of Bhutan
+[08:34:50] [INFO] Thimphu
+[08:34:50] [INFO] What is the capital of Comoros
+[08:34:56] [INFO] Moroni
+[08:34:56] [INFO] What is the capital of Czechia
+[08:35:00] [INFO] Prague
+[08:35:00] [INFO] What is the capital of Madagascar
+[08:35:08] [INFO] Correct, 1/1 guessed
+[08:35:08] [INFO] What is the capital of Chad
+[08:35:10] [INFO] N'Djamena
+[08:35:10] [INFO] What is the capital of Zambia
+[08:35:21] [INFO] Lusaka
+[08:35:21] [INFO] What is the capital of Albania
+[08:35:26] [INFO] Tirana
+[08:35:26] [INFO] What is the capital of Tanzania
+[08:35:31] [INFO] Dodoma
+[08:35:31] [INFO] What is the capital of Nicaragua
+[08:35:36] [INFO] Correct, 1/1 guessed
+[08:35:36] [INFO] What is the capital of Burkina Faso
+[08:35:38] [INFO] Ouagadougou
+[08:35:38] [INFO] What is the capital of Mexico
+[08:35:43] [INFO] Correct, 1/1 guessed
+[08:35:43] [INFO] What is the capital of Eritrea
+[08:35:46] [INFO] Asmara
+[08:35:46] [INFO] What is the capital of Fiji
+[08:35:50] [INFO] Suva
+[08:35:50] [INFO] What is the capital of Estonia
+[08:35:53] [INFO] Tallinn
+[08:35:53] [INFO] What is the capital of Sierra Leone
+[08:36:00] [INFO] Correct, 1/1 guessed
+[08:36:00] [INFO] What is the capital of Vietnam
+[08:36:02] [INFO] Correct, 1/1 guessed
+[08:36:02] [INFO] What is the capital of Ivory Coast
+[08:36:10] [INFO] Incorrect, 0/1 guessed
+[08:36:10] [INFO] What is the capital of Austria
+[08:36:11] [INFO] Yamoussoukro
+[08:36:32] [INFO] Correct, 1/1 guessed
+[08:36:32] [INFO] What is the capital of Singapore
+[08:36:36] [INFO] Correct, 1/1 guessed
+[08:36:36] [INFO] What is the capital of Cambodia
+[08:36:39] [INFO] Phnom Penh
+[08:36:39] [INFO] What is the capital of Moldova
+[08:36:50] [INFO] Incorrect, 0/1 guessed
+[08:36:50] [INFO] What is the capital of Democratic Republic of the Congo
+[08:36:52] [INFO] Chisinau
