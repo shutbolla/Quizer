@@ -116,7 +116,7 @@ namespace {
 					}
 					else if (input == "/amount left" || input == "/al") {
 					
-						logger::info(std::to_string(197 - j));
+						logger::info(std::to_string(197 - i));
 					}
 					else break;
 				}

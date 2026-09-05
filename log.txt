@@ -1,10 +1,23 @@
-[09:22:56] [INFO] Started Capitals Quiz
-[09:22:56] [INFO] What is the capital of Kosovo
-[09:22:57] [INFO] 197
-[09:23:03] [INFO] 197
-[09:23:05] [INFO] 197
-[09:23:08] [INFO] 197
-[09:23:11] [INFO] 
-[09:23:18] [INFO] Incorrect, 0/1 guessed
-[09:23:18] [INFO] What is the capital of Somalia
-[09:23:29] [INFO] Pristina
+[09:24:42] [INFO] Started Capitals Quiz
+[09:24:42] [INFO] What is the capital of Slovenia
+[09:24:43] [INFO] Incorrect, 0/1 guessed
+[09:24:43] [INFO] What is the capital of Pakistan
+[09:24:43] [INFO] Incorrect, 0/1 guessed
+[09:24:43] [INFO] What is the capital of The Gambia
+[09:24:43] [INFO] Incorrect, 0/1 guessed
+[09:24:43] [INFO] What is the capital of Democratic Republic of the Congo
+[09:24:43] [INFO] Incorrect, 0/1 guessed
+[09:24:43] [INFO] What is the capital of Barbados
+[09:24:44] [INFO] Incorrect, 0/1 guessed
+[09:24:44] [INFO] What is the capital of Liberia
+[09:24:44] [INFO] Incorrect, 0/1 guessed
+[09:24:44] [INFO] What is the capital of Timor-Leste
+[09:24:45] [INFO] 191
+[09:24:48] [INFO] You got 0/6 correct
+[09:24:48] [INFO] The capital of Slovenia was Ljubljana
+[09:24:48] [INFO] The capital of Pakistan was Islamabad
+[09:24:48] [INFO] The capital of The Gambia was Banjul
+[09:24:48] [INFO] The capital of Democratic Republic of the Congo was Kinshasa
+[09:24:48] [INFO] The capital of Barbados was Bridgetown
+[09:24:48] [INFO] The capital of Liberia was Monrovia
+[09:24:48] [INFO] Ended Capitals Quiz
