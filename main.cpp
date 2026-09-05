@@ -102,7 +102,7 @@ namespace {
 
 			++questions_attempted;
 
-			for (uint8_t i = 0; i != k_capitals_count; ++i) {
+			for (uint8_t j = 0; j != k_capitals_count; ++j) {
 
 				std::string input;
 
@@ -113,6 +113,10 @@ namespace {
 					if (input == "/previous answer" || input == "/previous ans" || input == "/prev answer" || input == "/prev ans" || input == "/pa") {
 
 						logger::info(previous_answer);
+					}
+					else if (input == "/amount left" || input == "/al") {
+					
+						logger::info(std::to_string(197 - j));
 					}
 					else break;
 				}
@@ -147,7 +151,7 @@ namespace {
 
 						if (capital == input) {
 
-							capitals_already_guessed[i] = capital;
+							capitals_already_guessed[j] = capital;
 
 							++questions_correct;
 
